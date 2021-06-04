@@ -1,0 +1,13 @@
+{
+  "name": "garronej-lessons",
+  "version": "1.0.0",
+  "description": "a series of examples and exercises written bay garronej",
+  "main": "index.js",
+  "repository": "https://github.com/thieryw/garronej-lessons.git",
+  "author": "<williamalexthiery@hotmail.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.3.2"
+  }
+}
